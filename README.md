@@ -13,8 +13,8 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 | Arrive | Xiamen, Mon Dec 28, 2026 at 20:05 |
 | Route | Xiamen → Fuzhou → Quanzhou → Guangzhou → Hong Kong |
 | Nights | Xiamen 3 (Dec 28–30) · Fuzhou 2 (Dec 31–Jan 1) · Quanzhou 2 (Jan 2–3) · Guangzhou 2 (Jan 4–5) · Hong Kong 3 (Jan 6–8) |
-| Depart | Hong Kong, Sat Jan 9, 2027 at 09:15 |
-| Flights | Known (Sherly holds the details; flight numbers not yet recorded here) |
+| Depart | Hong Kong, Sat Jan 9, 2027 at 09:15 — CX777 (Cathay Pacific) → Jakarta, arrives 13:20 (HKG T1 → CGK T3), Economy Light |
+| Flights | In: MF868 Xiamen Airlines, Jakarta 13:35 → Xiamen 20:05, Mon Dec 28 (direct, all 8 ticketed). Out: CX777 (above). Booking refs live in the Drive sheet, not here |
 | Hotels | None booked yet — areas chosen, see below |
 
 ## Who's going — 8 people
@@ -66,7 +66,7 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 
 **Hong Kong — 3 nights**
 - **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open. Priorities when we plan it: city highlights, nature, and shopping (clothes and electronics).
-- **Sat Jan 9** — Depart 09:15.
+- **Sat Jan 9** — CX777: Hong Kong 09:15 → Jakarta 13:20 (T1 → T3), Economy Light.
 
 ## Booking windows — nothing was bookable yet as of Nov 13
 
@@ -88,7 +88,7 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 - [ ] Hotels — book in the areas above (Xiamen: Zhongshan Rd/Siming · Fuzhou: Gulou near Sanfang Qixiang · Quanzhou: old city near West St · Guangzhou: Beijing Rd/Yuexiu · Hong Kong: TBD)
 - [ ] Gulangyu Island — Grant and Sherly to decide together. Muse's recommendation (Nov 12): go, on Dec 29, and drop Xiamen University if anything has to give
 - [ ] Hong Kong plan (Jan 6–8) — nothing recorded yet
-- [ ] Record flight numbers/details (Sherly holds them)
+- [x] Record flight details — MF868 out, CX777 back; refs in the Drive sheet
 - [ ] 12306 registration + verification; Yujian Xiamen mini-program setup
 - [ ] Grant to share the Drive folder with Sherly
 

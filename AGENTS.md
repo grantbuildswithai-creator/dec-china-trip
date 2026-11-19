@@ -8,7 +8,7 @@ Read this first, then `README.md`. The README is the human-facing plan and the s
 - Planned by **Grant Taylor** and **Sherly, his sister-in-law**. Sherly originated the sight lists and holds the flight details.
 - **Party of 8:** Grant and his wife Silvy; Hannah (16) and Reid (15); Mama and Papa (72); sisters-in-law Sherly (48) and Dewi (44). Mama and Papa speak Mandarin but can't use technology — all bookings/apps/tickets are handled by Grant and Sherly, so anything Mama and Papa need must work on paper (hotel address cards in Chinese characters, printed day plans). Their Mandarin is the group's in-country language asset; the tech is not their job.
 - **Group style:** nature, city highlights, shopping (mainly clothes and electronics; watches are the lowest priority and only Grant's interest — note only, never plan around them). Everyone walks well, including the 72-year-olds, so don't soften hikes/trails. Food: inexpensive and local, no restrictions — default to street food/local restaurants, never plan fancy dining.
-- Anchors (verified): arrive Xiamen Dec 28 at 20:05; Guangzhou → Hong Kong Jan 6; depart Hong Kong Jan 9 at 09:15.
+- Anchors (verified): MF868 (Xiamen Airlines) Jakarta Dec 28, 13:35 → Xiamen 20:05, direct, all 8 ticketed via Agoda; Guangzhou → Hong Kong Jan 6; depart Hong Kong Jan 9 at 09:15 on CX777 (Cathay Pacific), HKG T1 → Jakarta CGK T3, arrives 13:20, A330-300, Economy Light (Class V) — both legs recorded 2026-11-19. Booking refs/PNR live only in the Drive sheet, never in this repo. Travellers' full names (incl. Mama = Tanty Megawati, Papa = Sonny Setiawan, per the tickets) are in the sheet's Travellers tab.
 - Night split (agreed in the Nov 11, 2026 review): Xiamen 3, Fuzhou 2, Quanzhou 2, Guangzhou 2, Hong Kong 3.
 - Route order is deliberate: Fuzhou before Quanzhou, despite Quanzhou lying between Xiamen and Fuzhou on the map, because Quanzhou → Guangzhou by train (~3h40m–4h25m) is much shorter than Fuzhou → Guangzhou (~4.5–6.5h). Don't "fix" the order without re-checking that trade-off.
 
@@ -48,7 +48,7 @@ China rail (12306) and the Gulangyu ferry sell 15 days ahead, travel day counted
 - Hotels: none booked yet. Agreed areas — Xiamen Zhongshan Rd/Siming; Fuzhou Gulou near Sanfang Qixiang; Quanzhou old city near West St (Licheng); Guangzhou Beijing Rd/Yuexiu; Hong Kong TBD.
 - Gulangyu: undecided. Muse's Nov 12 recommendation: go on Dec 29 (first ferry, ~half a day), drop Xiamen University if something must give. Decision is Grant + Sherly's.
 - Hong Kong (Jan 6–8): no plan yet.
-- Flight numbers/details: not yet recorded; Sherly holds them.
+- Flight details: both legs recorded (see anchors). Nothing outstanding; the CX777 document itself isn't on file, only its details.
 - Master logistics doc (tickets/confirmations as they land): lives in Drive, not here.
 
 ## History (short)
