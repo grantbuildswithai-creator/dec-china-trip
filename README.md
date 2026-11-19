@@ -32,6 +32,14 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 
 Mama and Papa are the group's Mandarin speakers, but all the tech — bookings, apps, tickets — sits with Grant and Sherly. Plan anything they'll need (hotel addresses, day plans) on paper / in Chinese characters, not in an app.
 
+## What we like (group style)
+
+- **Nature** — trails, parks, coast. Already strong in this plan: Gulangyu, Mountain-to-Sea Trail, Fudao + Forest Park.
+- **City highlights** — the one big thing per city, not a checklist marathon.
+- **Shopping** — clothes and electronics, and watches. Best stops on this route: Zhongshan Road (Xiamen), Beijing Road + Tianhe (Guangzhou), and Hong Kong for watches.
+- **Walking is fine** — everyone in the group walks well, including Mama and Papa at 72. Walking-heavy days and hikes (Fudao, Qingyuan Mountain) are on the table.
+- **Food: local and inexpensive** — street food, local restaurants, food streets (Zengcuoan, Shangxiahang, Liwan in Guangzhou). No fancy-restaurant planning needed; Mama and Papa's Mandarin makes ordering local easy.
+
 ## Why this order?
 
 Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like backtracking on a map. It isn't: ending Fujian in Quanzhou makes the longest leg shorter — Quanzhou → Guangzhou is ~3h40m–4h25m by high-speed train vs ~4.5–6.5h from Fuzhou — and gets us into Guangzhou around lunch instead of late afternoon. The extra cost is ~1 hour on the Xiamen → Fuzhou leg early on.
@@ -49,7 +57,7 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 
 **Quanzhou — stay in the old city near West Street (Licheng)**
 - **Sat Jan 2** — Train from Fuzhou (~1h). Afternoon: West Street + Kaiyuan Temple (Kaiyuan is at the west end of West Street).
-- **Sun Jan 3** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon is pick-one: Luoyang Bridge (history pick, southeast) *or* Mount Qingyuan + Quanzhou West Lake Park (a pair, north side).
+- **Sun Jan 3** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon is pick-one: Luoyang Bridge (history pick, southeast) *or* Mount Qingyuan + Quanzhou West Lake Park (a pair, north side). Given the group's nature/walking preference, Qingyuan now leans favourite — still to confirm.
 
 **Guangzhou — stay near Beijing Road / Yuexiu**
 - **Mon Jan 4** — Early train from Quanzhou South, arrive ~12:30. Afternoon: Beijing Road + Dafo Temple. Evening: Huacheng Square (modern skyline, best after dark).
@@ -57,7 +65,7 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 - **Wed Jan 6** — Slow morning, then high-speed train Guangzhou → Hong Kong (West Kowloon).
 
 **Hong Kong — 3 nights**
-- **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open.
+- **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open. Priorities when we plan it: city highlights, nature, and shopping (watches especially — Hong Kong is the best watch stop of the trip).
 - **Sat Jan 9** — Depart 09:15.
 
 ## Booking windows — nothing was bookable yet as of Nov 13
