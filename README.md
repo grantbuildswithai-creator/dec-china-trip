@@ -15,6 +15,7 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 | Nights | Xiamen 3 (Dec 28–30) · Fuzhou 2 (Dec 31–Jan 1) · Quanzhou 2 (Jan 2–3) · Guangzhou 2 (Jan 4–5) · Hong Kong 3 (Jan 6–8) |
 | Depart | Hong Kong, Sat Jan 9, 2027 at 09:15 — CX777 (Cathay Pacific) → Jakarta, arrives 13:20 (HKG T1 → CGK T3), Economy Light |
 | Flights | In: MF868 Xiamen Airlines, Jakarta 13:35 → Xiamen 20:05, Mon Dec 28 (direct, all 8 ticketed). Out: CX777 (above). Booking refs live in the Drive sheet, not here |
+| Entry | 240-hour visa-free transit via Xiamen (US + Indonesian passports eligible). The Guangzhou → Hong Kong train ticket is the onward-travel proof — buy it Dec 23, before flying |
 | Hotels | None booked yet — areas chosen, see below |
 
 ## Who's going — 8 people
