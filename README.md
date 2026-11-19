@@ -36,7 +36,7 @@ Mama and Papa are the group's Mandarin speakers, but all the tech — bookings, 
 
 - **Nature** — trails, parks, coast. Already strong in this plan: Gulangyu, Mountain-to-Sea Trail, Fudao + Forest Park.
 - **City highlights** — the one big thing per city, not a checklist marathon.
-- **Shopping** — clothes and electronics, and watches. Best stops on this route: Zhongshan Road (Xiamen), Beijing Road + Tianhe (Guangzhou), and Hong Kong for watches.
+- **Shopping** — mainly clothes and electronics. Best stops on this route: Zhongshan Road (Xiamen), Beijing Road + Tianhe (Guangzhou), and Hong Kong. Watches are the lowest shopping priority — just Grant, noted only.
 - **Walking is fine** — everyone in the group walks well, including Mama and Papa at 72. Walking-heavy days and hikes (Fudao, Qingyuan Mountain) are on the table.
 - **Food: local and inexpensive** — street food, local restaurants, food streets (Zengcuoan, Shangxiahang, Liwan in Guangzhou). No fancy-restaurant planning needed; Mama and Papa's Mandarin makes ordering local easy.
 
@@ -65,7 +65,7 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 - **Wed Jan 6** — Slow morning, then high-speed train Guangzhou → Hong Kong (West Kowloon).
 
 **Hong Kong — 3 nights**
-- **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open. Priorities when we plan it: city highlights, nature, and shopping (watches especially — Hong Kong is the best watch stop of the trip).
+- **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open. Priorities when we plan it: city highlights, nature, and shopping (clothes and electronics).
 - **Sat Jan 9** — Depart 09:15.
 
 ## Booking windows — nothing was bookable yet as of Nov 13
