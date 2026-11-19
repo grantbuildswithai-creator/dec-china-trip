@@ -6,6 +6,7 @@ Read this first, then `README.md`. The README is the human-facing plan and the s
 
 - Family trip to China: **Mon Dec 28, 2026 – Sat Jan 9, 2027**, Xiamen → Fuzhou → Quanzhou → Guangzhou → Hong Kong.
 - Planned by **Grant Taylor** and **Sherly, his sister-in-law**. Sherly originated the sight lists and holds the flight details.
+- **Party of 8:** Grant and his wife Silvy; Hannah (16) and Reid (15); Mama and Papa (72); sisters-in-law Sherly (48) and Dewi (44). Mama and Papa speak Mandarin but can't use technology — all bookings/apps/tickets are handled by Grant and Sherly, so anything Mama and Papa need must work on paper (hotel address cards in Chinese characters, printed day plans). Their Mandarin is the group's in-country language asset; the tech is not their job.
 - Anchors (verified): arrive Xiamen Dec 28 at 20:05; Guangzhou → Hong Kong Jan 6; depart Hong Kong Jan 9 at 09:15.
 - Night split (agreed in the Nov 11, 2026 review): Xiamen 3, Fuzhou 2, Quanzhou 2, Guangzhou 2, Hong Kong 3.
 - Route order is deliberate: Fuzhou before Quanzhou, despite Quanzhou lying between Xiamen and Fuzhou on the map, because Quanzhou → Guangzhou by train (~3h40m–4h25m) is much shorter than Fuzhou → Guangzhou (~4.5–6.5h). Don't "fix" the order without re-checking that trade-off.

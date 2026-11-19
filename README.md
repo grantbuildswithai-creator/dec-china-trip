@@ -17,6 +17,21 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 | Flights | Known (Sherly holds the details; flight numbers not yet recorded here) |
 | Hotels | None booked yet — areas chosen, see below |
 
+## Who's going — 8 people
+
+| Traveller | Age | Notes |
+|---|---|---|
+| Grant Taylor | | Logistics lead (with Sherly) |
+| Silvy | | Grant's wife |
+| Hannah Taylor | 16 | |
+| Reid Taylor | 15 | |
+| Mama | 72 | Speaks Mandarin; can't use technology |
+| Papa | 72 | Speaks Mandarin; can't use technology |
+| Sherly | 48 | Grant's sister-in-law; co-planner, holds the flight details, logistics lead (with Grant) |
+| Dewi | 44 | Grant's sister-in-law |
+
+Mama and Papa are the group's Mandarin speakers, but all the tech — bookings, apps, tickets — sits with Grant and Sherly. Plan anything they'll need (hotel addresses, day plans) on paper / in Chinese characters, not in an app.
+
 ## Why this order?
 
 Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like backtracking on a map. It isn't: ending Fujian in Quanzhou makes the longest leg shorter — Quanzhou → Guangzhou is ~3h40m–4h25m by high-speed train vs ~4.5–6.5h from Fuzhou — and gets us into Guangzhou around lunch instead of late afternoon. The extra cost is ~1 hour on the Xiamen → Fuzhou leg early on.
@@ -75,4 +90,4 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 - **Drive folder** ([December China Trip](https://drive.google.com/drive/folders/1MRBzAh55KP-ZOw2xOjt8ZKFysN9_8DzH)) = the private stuff: tickets, hotel confirmations, booking PDFs.
 - **Workflow:** Sherly sends material to Grant on WhatsApp → Grant drops it into the "Christmas china trip" chat with Muse → Muse files it, updates this plan, and drafts anything that needs to go back to Sherly for Grant to send.
 
-*Last updated: Nov 19, 2026 — initial commit from Muse's memory of the Nov 11–13 planning.*
+*Last updated: Nov 19, 2026 — party of 8 added; initial commit was from Muse's memory of the Nov 11–13 planning.*
