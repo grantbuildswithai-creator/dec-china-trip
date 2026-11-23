@@ -16,7 +16,7 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 | Depart | Hong Kong, Sat Jan 9, 2027 at 09:15 — CX777 (Cathay Pacific) → Jakarta, arrives 13:20 (HKG T1 → CGK T3), Economy Light |
 | Flights | In: MF868 Xiamen Airlines, Jakarta 13:35 → Xiamen 20:05, Mon Dec 28 (direct, all 8 ticketed). Out: CX777 (above). Booking refs live in the Drive sheet, not here |
 | Entry | 240-hour visa-free transit via Xiamen (US + Indonesian passports eligible). The Guangzhou → Hong Kong train ticket is the onward-travel proof — buy it Dec 23, before flying |
-| Hotels | None booked yet — areas chosen, see below |
+| Hotels | None booked yet — 4 options shortlisted per city (totals for 4 rooms, as checked Nov 19–21; re-verify price, cancellation and passport acceptance at booking). Best-value picks: Xiamen Melody of Sea $522 · Fuzhou Yue Hotel $611 · Quanzhou Atour Shengshi Plaza $795 · Guangzhou Rezen Select $323 · Hong Kong Empire Kowloon $1,558. Full shortlist is in the Drive sheet (Hotels tab). |
 
 ## Who's going — 8 people
 
@@ -65,9 +65,11 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 - **Tue Jan 5** — Liwan (west) day: Shamian Island (morning) → Lychee Bay → Yongqing Fang. Liurong Temple on the way back — it's central, near Beijing Road.
 - **Wed Jan 6** — Slow morning, then high-speed train Guangzhou → Hong Kong (West Kowloon).
 
-**Hong Kong — 3 nights**
-- **Wed Jan 6 – Fri Jan 8** — No plan recorded yet. Open. Priorities when we plan it: city highlights, nature, and shopping (clothes and electronics).
-- **Sat Jan 9** — CX777: Hong Kong 09:15 → Jakarta 13:20 (T1 → T3), Economy Light.
+**Hong Kong — 3 nights, base Tsim Sha Tsui (to confirm)**
+- **Wed Jan 6** — Arrive West Kowloon by train, late morning. Evening: Tsim Sha Tsui Promenade / Avenue of Stars + A Symphony of Lights at 8:00 PM (free).
+- **Thu Jan 7** — Star Ferry to Central, Peak Tram up (return HK$116 adult / HK$75 senior 65+; book from Dec 8, official webstore only, timed tickets non-refundable) then Victoria Peak Circle Walk (3.5 km, ~1 hr, easy, free). Afternoon: Kowloon Park / museums. Evening option: Temple Street night market, liveliest 19:00–23:00 (free, nothing to book).
+- **Fri Jan 8** — Shopping day: Harbour City / K11 MUSEA / Nathan & Canton Road (clothes and electronics; watches lowest priority).
+- **Sat Jan 9** — CX777: Hong Kong 09:15 → Jakarta 13:20 (T1 → T3), Economy Light. **Departure note:** the Airport Express leaves from Kowloon Station, NOT West Kowloon Station where you arrive Jan 6 — plan an early taxi/MTR hop or the A21/A25 airport bus.
 
 ## Booking windows — nothing was bookable yet as of Nov 13
 
@@ -86,9 +88,9 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 
 ## Open decisions / to do
 
-- [ ] Hotels — book in the areas above (Xiamen: Zhongshan Rd/Siming · Fuzhou: Gulou near Sanfang Qixiang · Quanzhou: old city near West St · Guangzhou: Beijing Rd/Yuexiu · Hong Kong: TBD)
+- [ ] Hotels — pick one per city from the shortlist in the sheet (4 rooms of 2, and room-only vs breakfast, still to confirm — asked once, unanswered)
 - [ ] Gulangyu Island — Grant and Sherly to decide together. Muse's recommendation (Nov 12): go, on Dec 29, and drop Xiamen University if anything has to give
-- [ ] Hong Kong plan (Jan 6–8) — nothing recorded yet
+- [ ] Hong Kong plan (Jan 6–8) — draft above, for Grant's review. Peak Tram prices and Temple Street hours checked Nov 23 (see Jan 7). Tsim Sha Tsui base still to confirm.
 - [x] Record flight details — MF868 out, CX777 back; refs in the Drive sheet
 - [ ] 12306 registration + verification; Yujian Xiamen mini-program setup
 - [ ] Grant to share the Drive folder with Sherly
@@ -99,4 +101,4 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 - **Drive folder** ([December China Trip](https://drive.google.com/drive/folders/1MRBzAh55KP-ZOw2xOjt8ZKFysN9_8DzH)) = the private stuff: tickets, hotel confirmations, booking PDFs.
 - **Workflow:** Sherly sends material to Grant on WhatsApp → Grant drops it into the "Christmas china trip" chat with Muse → Muse files it, updates this plan, and drafts anything that needs to go back to Sherly for Grant to send.
 
-*Last updated: Nov 19, 2026 — party of 8 added; initial commit was from Muse's memory of the Nov 11–13 planning.*
+*Last updated: Nov 23, 2026 — Hong Kong Jan 6–8 draft added; Peak Tram / Temple Street checked Nov 23.*
