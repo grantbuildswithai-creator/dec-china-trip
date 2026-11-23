@@ -2,7 +2,7 @@
 
 Family trip to China after Christmas, planned by Grant Taylor and his sister-in-law Sherly.
 
-**Mon Dec 28, 2026 – Sat Jan 9, 2027** · Xiamen → Fuzhou → Quanzhou → Guangzhou → Hong Kong
+**Mon Dec 28, 2026 – Sat Jan 9, 2027** · Xiamen → Quanzhou → Fuzhou → Guangzhou → Hong Kong
 
 > ⚠️ **This repo is public.** It holds the plan only — no confirmation numbers, booking references, passport details, or payment info here. Tickets and confirmations live in the private Google Drive folder: [December China Trip](https://drive.google.com/drive/folders/1MRBzAh55KP-ZOw2xOjt8ZKFysN9_8DzH)
 
@@ -11,12 +11,12 @@ Family trip to China after Christmas, planned by Grant Taylor and his sister-in-
 | | |
 |---|---|
 | Arrive | Xiamen, Mon Dec 28, 2026 at 20:05 |
-| Route | Xiamen → Fuzhou → Quanzhou → Guangzhou → Hong Kong |
-| Nights | Xiamen 3 (Dec 28–30) · Fuzhou 2 (Dec 31–Jan 1) · Quanzhou 2 (Jan 2–3) · Guangzhou 2 (Jan 4–5) · Hong Kong 3 (Jan 6–8) |
+| Route | Xiamen → Quanzhou → Fuzhou → Guangzhou → Hong Kong |
+| Nights | Xiamen 3 (Dec 28–30) · Quanzhou 2 (Dec 31–Jan 1) · Fuzhou 2 (Jan 2–3) · Guangzhou 2 (Jan 4–5) · Hong Kong 3 (Jan 6–8) |
 | Depart | Hong Kong, Sat Jan 9, 2027 at 09:15 — CX777 (Cathay Pacific) → Jakarta, arrives 13:20 (HKG T1 → CGK T3), Economy Light |
 | Flights | In: MF868 Xiamen Airlines, Jakarta 13:35 → Xiamen 20:05, Mon Dec 28 (direct, all 8 ticketed). Out: CX777 (above). Booking refs live in the Drive sheet, not here |
 | Entry | 240-hour visa-free transit via Xiamen (US + Indonesian passports eligible). The Guangzhou → Hong Kong train ticket is the onward-travel proof — buy it Dec 23, before flying |
-| Hotels | None booked yet — 4 options shortlisted per city (totals for 4 rooms, as checked Nov 19–21; re-verify price, cancellation and passport acceptance at booking). Best-value picks: Xiamen Melody of Sea $522 · Fuzhou Yue Hotel $611 · Quanzhou Atour Shengshi Plaza $795 · Guangzhou Rezen Select $323 · Hong Kong Empire Kowloon $1,558. Full shortlist is in the Drive sheet (Hotels tab). |
+| Hotels | None booked yet — 4 options shortlisted per city (totals for 4 rooms, as checked Nov 19–21; re-verify price, cancellation and passport acceptance at booking). Best-value picks: Xiamen Melody of Sea $522 · Quanzhou Atour Shengshi Plaza $795 · Fuzhou Yue Hotel $611 · Guangzhou Rezen Select $323 · Hong Kong Empire Kowloon $1,558. Full shortlist is in the Drive sheet (Hotels tab). |
 
 ## Who's going — 8 people
 
@@ -43,7 +43,7 @@ Mama and Papa are the group's Mandarin speakers, but all the tech — bookings, 
 
 ## Why this order?
 
-Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like backtracking on a map. It isn't: ending Fujian in Quanzhou makes the longest leg shorter — Quanzhou → Guangzhou is ~3h40m–4h25m by high-speed train vs ~4.5–6.5h from Fuzhou — and gets us into Guangzhou around lunch instead of late afternoon. The extra cost is ~1 hour on the Xiamen → Fuzhou leg early on.
+Switched Nov 23, 2026 to the geographic order — the route now runs straight up the Fujian coast and then west, with no backtracking: Xiamen → Quanzhou (D6522, 53 min) → Fuzhou (D6204, 1h24) → Guangzhou (G1609, 5h39). It costs about an hour more total rail time than the original Fuzhou-first order, but every leg moves in one direction, Fuzhou gets two full days, and all three departures are at civilised morning hours. The trade-off is a later Guangzhou arrival (13:55 instead of ~12:30).
 
 ## Day by day (sights grouped by neighbourhood)
 
@@ -52,21 +52,21 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 - **Tue Dec 29** — Gulangyu Island: first ferry out, core loop in about half a day, back mid-afternoon.
 - **Wed Dec 30** — South-coast cluster, all on foot: Nanputuo Temple (early) → Xiamen University *(maybe, lottery entry — bonus, not a guarantee)* → Baicheng Beach → Mountain-to-Sea Trail east → Zengcuoan Village for sunset/dinner.
 
-**Fuzhou — stay in Gulou, near Sanfang Qixiang**
-- **Thu Dec 31** — Train from Xiamen (~1.5h). Afternoon: Sanfang Qixiang + Yushan / White Pagoda (central cluster). West Lake Park late afternoon.
-- **Fri Jan 1** — Morning: Fudao Entrance 3 + Fuzhou National Forest Park (one northern outing). Evening: Shangxiahang (southern district, best at night).
-
 **Quanzhou — stay in the old city near West Street (Licheng)**
-- **Sat Jan 2** — Train from Fuzhou (~1h). Afternoon: West Street + Kaiyuan Temple (Kaiyuan is at the west end of West Street).
-- **Sun Jan 3** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon: Mount Qingyuan + Quanzhou West Lake Park.
+- **Thu Dec 31** — Train D6522 from Xiamen, 08:06 → 08:59. Afternoon: West Street + Kaiyuan Temple (Kaiyuan is at the west end of West Street).
+- **Fri Jan 1** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon: Mount Qingyuan + Quanzhou West Lake Park.
+
+**Fuzhou — stay in Gulou, near Sanfang Qixiang**
+- **Sat Jan 2** — Train D6204 from Quanzhou, 08:21 → 09:45. Afternoon: Sanfang Qixiang + Yushan / White Pagoda (central cluster). West Lake Park late afternoon.
+- **Sun Jan 3** — Morning: Fudao Entrance 3 + Fuzhou National Forest Park (one northern outing). Evening: Shangxiahang (southern district, best at night).
 
 **Guangzhou — stay near Beijing Road / Yuexiu**
-- **Mon Jan 4** — Early train from Quanzhou South, arrive ~12:30. Afternoon: Beijing Road + Dafo Temple. Evening: Huacheng Square (modern skyline, best after dark).
+- **Mon Jan 4** — Train G1609 from Fuzhou, 08:16 → Guangzhou East 13:55. Afternoon: Beijing Road + Dafo Temple. Evening: Huacheng Square (modern skyline, best after dark).
 - **Tue Jan 5** — Liwan (west) day: Shamian Island (morning) → Lychee Bay → Yongqing Fang. Liurong Temple on the way back — it's central, near Beijing Road.
-- **Wed Jan 6** — Slow morning, then high-speed train Guangzhou → Hong Kong (West Kowloon).
+- **Wed Jan 6** — Slow morning, then afternoon high-speed train Guangzhou → Hong Kong (West Kowloon). Target: G6521, 14:00 from Guangzhou South → 14:53 (to confirm when sales open Dec 23).
 
 **Hong Kong — 3 nights, base Tsim Sha Tsui**
-- **Wed Jan 6** — Arrive West Kowloon by train, late morning. Evening: Tsim Sha Tsui Promenade / Avenue of Stars + A Symphony of Lights at 8:00 PM (free).
+- **Wed Jan 6** — Arrive West Kowloon by train, mid-afternoon. Evening: Tsim Sha Tsui Promenade / Avenue of Stars + A Symphony of Lights at 8:00 PM (free).
 - **Thu Jan 7** — Star Ferry to Central, Peak Tram up, Victoria Peak Circle Walk (3.5 km, ~1 hr, easy). Afternoon: Kowloon Park / museums. Evening option: Temple Street night market.
 - **Fri Jan 8** — Shopping day: Harbour City / K11 MUSEA / Nathan & Canton Road (clothes and electronics; watches lowest priority).
 - **Sat Jan 9** — CX777: Hong Kong 09:15 → Jakarta 13:20 (T1 → T3), Economy Light. **Departure note:** the Airport Express leaves from Kowloon Station, NOT West Kowloon Station where you arrive Jan 6 — plan an early taxi/MTR hop or the A21/A25 airport bus.
@@ -78,9 +78,9 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 | Booking | Opens | How |
 |---|---|---|
 | Gulangyu ferry (for Tue Dec 29) | **Tue Dec 15, 2026, 09:00** | Yujian Xiamen mini-program in WeChat/Alipay |
-| Train Xiamen → Fuzhou (travel Dec 31) | **Thu Dec 17** | 12306 |
-| Train Fuzhou → Quanzhou (travel Jan 2) | **Sat Dec 19** | 12306 |
-| Train Quanzhou → Guangzhou (travel Jan 4) | **Mon Dec 21** | 12306 |
+| Train Xiamen → Quanzhou D6522 (travel Dec 31) | **Thu Dec 17** | 12306 |
+| Train Quanzhou → Fuzhou D6204 (travel Jan 2) | **Sat Dec 19** | 12306 |
+| Train Fuzhou → Guangzhou G1609 (travel Jan 4) | **Mon Dec 21** | 12306 |
 | Train Guangzhou → Hong Kong (travel Jan 6) | **Wed Dec 23** | 12306 / MTR — cross-border ticketing may differ, verify at the time |
 | Xiamen University entry (for Dec 30) | Register **Sun Dec 27**; lottery draw **Tue Dec 29, 16:00**, results 20:00 | University visitor system — passport-holder route unclear; treat as a bonus |
 
@@ -101,4 +101,4 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 - **Drive folder** ([December China Trip](https://drive.google.com/drive/folders/1MRBzAh55KP-ZOw2xOjt8ZKFysN9_8DzH)) = the private stuff: tickets, hotel confirmations, booking PDFs.
 - **Workflow:** Sherly sends material to Grant on WhatsApp → Grant drops it into the "Christmas china trip" chat with Muse → Muse files it, updates this plan, and drafts anything that needs to go back to Sherly for Grant to send.
 
-*Last updated: Nov 23, 2026 — itinerary finalized: Gulangyu in, Mount Qingyuan picked for Jan 3, Hong Kong plan set, Tsim Sha Tsui base.*
+*Last updated: Nov 23, 2026 — route order switched to Xiamen → Quanzhou → Fuzhou → Guangzhou → Hong Kong with Sherly's trains (D6522 / D6204 / G1609); sights and night counts unchanged.*
