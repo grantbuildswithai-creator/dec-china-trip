@@ -4,14 +4,14 @@ Read this first, then `README.md`. The README is the human-facing plan and the s
 
 ## The project
 
-- Family trip to China: **Mon Dec 28, 2026 – Sat Jan 9, 2027**, Xiamen → Quanzhou → Fuzhou → Guangzhou → Hong Kong.
+- Family trip to China: **Mon Dec 28, 2026 – Sat Jan 9, 2027**, Xiamen → Fuzhou → Quanzhou → Guangzhou → Hong Kong.
 - Planned by **Grant Taylor** and **Sherly, his sister-in-law**. Sherly originated the sight lists and holds the flight details.
 - **Party of 8:** Grant and his wife Silvy; Hannah (16) and Reid (15); Mama and Papa (72); sisters-in-law Sherly (48) and Dewi (44). Mama and Papa speak Mandarin but can't use technology — all bookings/apps/tickets are handled by Grant and Sherly, so anything Mama and Papa need must work on paper (hotel address cards in Chinese characters, printed day plans). Their Mandarin is the group's in-country language asset; the tech is not their job.
 - **Group style:** nature, city highlights, shopping (mainly clothes and electronics; watches are the lowest priority and only Grant's interest — note only, never plan around them). Everyone walks well, including the 72-year-olds, so don't soften hikes/trails. Food: inexpensive and local, no restrictions — default to street food/local restaurants, never plan fancy dining.
 - **Entry basis — 240-hour visa-free transit (checked 2026-11-19):** Xiamen Gaoqi is one of the 65 designated ports; both US and Indonesian passports are eligible (Indonesia added Jun 12, 2025). Route Indonesia → China → Hong Kong (third region) qualifies; the 240h clock starts Dec 29 00:00 and expires Jan 8 00:00, so the Jan 6 exit is comfortably inside; Fujian and Guangdong are both in the permitted area and cross-province travel is allowed. It is visa-free transit, not a visa issued on arrival — permission is granted at border inspection in Xiamen. Hard dependency: the Guangzhou → Hong Kong train ticket is the onward-ticket proof, so it must be bought when sales open **Dec 23**, before the Dec 28 flight, and carried (with the CX777 booking) at Jakarta check-in.
 - Anchors (verified): MF868 (Xiamen Airlines) Jakarta Dec 28, 13:35 → Xiamen 20:05, direct, all 8 ticketed via Agoda; Guangzhou → Hong Kong Jan 6; depart Hong Kong Jan 9 at 09:15 on CX777 (Cathay Pacific), HKG T1 → Jakarta CGK T3, arrives 13:20, A330-300, Economy Light (Class V) — both legs recorded 2026-11-19. Booking refs/PNR live only in the Drive sheet, never in this repo. Travellers' full names (incl. Mama = Tanty Megawati, Papa = Sonny Setiawan, per the tickets) are in the sheet's Travellers tab.
-- Night split: Xiamen 3, Quanzhou 2, Fuzhou 2, Guangzhou 2, Hong Kong 3.
-- Route order (switched Nov 23, 2026, at Grant's direction): geographic order Xiamen → Quanzhou → Fuzhou → Guangzhou, using Sherly's trains — D6522 Xiamen→Quanzhou 08:06–08:59 (Dec 31), D6204 Quanzhou→Fuzhou 08:21–09:45 (Jan 2), G1609 Fuzhou→Guangzhou East 08:16–13:55 (Jan 4). Total rail ~7h56, ~1h more than the old Fuzhou-first order, accepted for zero backtracking and two full Fuzhou days. Guangzhou → Hong Kong target: G6521 14:00 from Guangzhou South → West Kowloon 14:53 on Jan 6 (suggested by Muse, not yet confirmed by Grant/Sherly).
+- Night split: Xiamen 3, Fuzhou 2, Quanzhou 2, Guangzhou 2, Hong Kong 3.
+- Route order (final form Nov 23, 2026): Fuzhou before Quanzhou — switched to geographic order and back the same day; Grant settled on Fuzhou-first with Sherly's trains — G1654 Xiamen→Fuzhou 08:51–10:37 (Dec 31), D2301 Fuzhou→Quanzhou 08:47–10:11 (Jan 2), D3319 Quanzhou→Guangzhou East 09:03–13:52 (Jan 4). Total rail ~7h59; D3319 is a slow D-series (faster ~4h options existed in earlier checks — flagged to Grant Nov 23). Guangzhou → Hong Kong target: G6521 14:00 from Guangzhou South → West Kowloon 14:53 on Jan 6 (suggested by Muse, not yet confirmed by Grant/Sherly).
 
 ## Where things live
 
@@ -40,7 +40,7 @@ When Grant drops new material into the chat (a confirmation, a change from Sherl
 China rail (12306) and the Gulangyu ferry sell 15 days ahead, travel day counted.
 
 - Gulangyu ferry (Dec 29): opens **Tue Dec 15, 2026, 09:00 China time**, Yujian Xiamen mini-program (WeChat/Alipay).
-- Trains open: Xiamen→Quanzhou **Dec 17** · Quanzhou→Fuzhou **Dec 19** · Fuzhou→Guangzhou **Dec 21** · Guangzhou→Hong Kong **Dec 23** (cross-border may differ — verify on 12306/MTR).
+- Trains open: Xiamen→Fuzhou **Dec 17** · Fuzhou→Quanzhou **Dec 19** · Quanzhou→Guangzhou **Dec 21** · Guangzhou→Hong Kong **Dec 23** (cross-border may differ — verify on 12306/MTR).
 - Xiamen University (Dec 30): register **Dec 27**, lottery draw **Dec 29, 16:00**, results 20:00. Entry is lottery-based since Jan 2026; passport-holder route unclear. Always plan the day so it works without it.
 - Prep: 12306 passport registration/verification and Yujian mini-program setup, done ahead of Dec 15.
 
@@ -57,4 +57,4 @@ China rail (12306) and the Gulangyu ferry sell 15 days ahead, travel day counted
 - Nov 12: Grant sent Sherly the grouped take. Gulangyu video check + recommendation given.
 - Nov 13: Booking windows checked — nothing bookable yet; prep items identified.
 - Nov 19: Repo and Drive folder created by Grant; this brief and the README committed as the starting record.
-- Nov 23: Itinerary finalized (Gulangyu in, Qingyuan picked, Hong Kong plan set, TST base), then the Fujian order switched to Xiamen → Quanzhou → Fuzhou with Sherly's trains D6522 / D6204 / G1609.
+- Nov 23: Itinerary finalized (Gulangyu in, Qingyuan picked, Hong Kong plan set, TST base). Fujian order switched to geographic (D6522 / D6204 / G1609), then switched back to Fuzhou-first the same day with trains G1654 / D2301 / D3319.
