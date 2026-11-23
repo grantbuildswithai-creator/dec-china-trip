@@ -49,7 +49,7 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 
 **Xiamen — stay near Zhongshan Road / Siming**
 - **Mon Dec 28** — Arrive 20:05. Evening only: Zhongshan Road, walk and eat.
-- **Tue Dec 29** — Gulangyu Island *(still a "maybe" — see Open decisions)*. If we go: first ferry out, core loop in about half a day, back mid-afternoon.
+- **Tue Dec 29** — Gulangyu Island: first ferry out, core loop in about half a day, back mid-afternoon.
 - **Wed Dec 30** — South-coast cluster, all on foot: Nanputuo Temple (early) → Xiamen University *(maybe, lottery entry — bonus, not a guarantee)* → Baicheng Beach → Mountain-to-Sea Trail east → Zengcuoan Village for sunset/dinner.
 
 **Fuzhou — stay in Gulou, near Sanfang Qixiang**
@@ -58,16 +58,16 @@ Quanzhou sits geographically between Xiamen and Fuzhou, so the order looks like 
 
 **Quanzhou — stay in the old city near West Street (Licheng)**
 - **Sat Jan 2** — Train from Fuzhou (~1h). Afternoon: West Street + Kaiyuan Temple (Kaiyuan is at the west end of West Street).
-- **Sun Jan 3** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon is pick-one: Luoyang Bridge (history pick, southeast) *or* Mount Qingyuan + Quanzhou West Lake Park (a pair, north side). Given the group's nature/walking preference, Qingyuan now leans favourite — still to confirm.
+- **Sun Jan 3** — Morning temple arc: Yuanmiao Temple → Guandi Temple → Heavenly Empress Palace (Tianhou). Afternoon: Mount Qingyuan + Quanzhou West Lake Park.
 
 **Guangzhou — stay near Beijing Road / Yuexiu**
 - **Mon Jan 4** — Early train from Quanzhou South, arrive ~12:30. Afternoon: Beijing Road + Dafo Temple. Evening: Huacheng Square (modern skyline, best after dark).
 - **Tue Jan 5** — Liwan (west) day: Shamian Island (morning) → Lychee Bay → Yongqing Fang. Liurong Temple on the way back — it's central, near Beijing Road.
 - **Wed Jan 6** — Slow morning, then high-speed train Guangzhou → Hong Kong (West Kowloon).
 
-**Hong Kong — 3 nights, base Tsim Sha Tsui (to confirm)**
+**Hong Kong — 3 nights, base Tsim Sha Tsui**
 - **Wed Jan 6** — Arrive West Kowloon by train, late morning. Evening: Tsim Sha Tsui Promenade / Avenue of Stars + A Symphony of Lights at 8:00 PM (free).
-- **Thu Jan 7** — Star Ferry to Central, Peak Tram up (return HK$116 adult / HK$75 senior 65+; book from Dec 8, official webstore only, timed tickets non-refundable) then Victoria Peak Circle Walk (3.5 km, ~1 hr, easy, free). Afternoon: Kowloon Park / museums. Evening option: Temple Street night market, liveliest 19:00–23:00 (free, nothing to book).
+- **Thu Jan 7** — Star Ferry to Central, Peak Tram up, Victoria Peak Circle Walk (3.5 km, ~1 hr, easy). Afternoon: Kowloon Park / museums. Evening option: Temple Street night market.
 - **Fri Jan 8** — Shopping day: Harbour City / K11 MUSEA / Nathan & Canton Road (clothes and electronics; watches lowest priority).
 - **Sat Jan 9** — CX777: Hong Kong 09:15 → Jakarta 13:20 (T1 → T3), Economy Light. **Departure note:** the Airport Express leaves from Kowloon Station, NOT West Kowloon Station where you arrive Jan 6 — plan an early taxi/MTR hop or the A21/A25 airport bus.
 
@@ -88,9 +88,9 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 
 ## Open decisions / to do
 
-- [ ] Hotels — pick one per city from the shortlist in the sheet (4 rooms of 2, and room-only vs breakfast, still to confirm — asked once, unanswered)
-- [ ] Gulangyu Island — Grant and Sherly to decide together. Muse's recommendation (Nov 12): go, on Dec 29, and drop Xiamen University if anything has to give
-- [ ] Hong Kong plan (Jan 6–8) — draft above, for Grant's review. Peak Tram prices and Temple Street hours checked Nov 23 (see Jan 7). Tsim Sha Tsui base still to confirm.
+- [ ] Hotels — pick one per city from the shortlist in the sheet and book (4 rooms of 2, and room-only vs breakfast, still to settle)
+- [x] Gulangyu Island — going, Tue Dec 29 (finalized Nov 23)
+- [x] Hong Kong plan (Jan 6–8) and Tsim Sha Tsui base — finalized Nov 23
 - [x] Record flight details — MF868 out, CX777 back; refs in the Drive sheet
 - [ ] 12306 registration + verification; Yujian Xiamen mini-program setup
 - [ ] Grant to share the Drive folder with Sherly
@@ -101,4 +101,4 @@ China rail and the Gulangyu ferry both sell **15 days ahead** (travel day counte
 - **Drive folder** ([December China Trip](https://drive.google.com/drive/folders/1MRBzAh55KP-ZOw2xOjt8ZKFysN9_8DzH)) = the private stuff: tickets, hotel confirmations, booking PDFs.
 - **Workflow:** Sherly sends material to Grant on WhatsApp → Grant drops it into the "Christmas china trip" chat with Muse → Muse files it, updates this plan, and drafts anything that needs to go back to Sherly for Grant to send.
 
-*Last updated: Nov 23, 2026 — Hong Kong Jan 6–8 draft added; Peak Tram / Temple Street checked Nov 23.*
+*Last updated: Nov 23, 2026 — itinerary finalized: Gulangyu in, Mount Qingyuan picked for Jan 3, Hong Kong plan set, Tsim Sha Tsui base.*

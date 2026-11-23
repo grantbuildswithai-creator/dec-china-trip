@@ -46,9 +46,8 @@ China rail (12306) and the Gulangyu ferry sell 15 days ahead, travel day counted
 
 ## Open threads
 
-- Hotels: none booked yet. Agreed areas — Xiamen Zhongshan Rd/Siming; Fuzhou Gulou near Sanfang Qixiang; Quanzhou old city near West St (Licheng); Guangzhou Beijing Rd/Yuexiu; Hong Kong TBD.
-- Gulangyu: undecided. Muse's Nov 12 recommendation: go on Dec 29 (first ferry, ~half a day), drop Xiamen University if something must give. Decision is Grant + Sherly's.
-- Hong Kong (Jan 6–8): no plan yet.
+- Hotels: none booked yet; shortlists (best value + safest per city) are in the sheet's Hotels tab. Agreed areas — Xiamen Zhongshan Rd/Siming; Fuzhou Gulou near Sanfang Qixiang; Quanzhou old city near West St (Licheng); Guangzhou Beijing Rd/Yuexiu; Hong Kong Tsim Sha Tsui. Still to settle: 4 rooms of 2 split, room-only vs breakfast.
+- Itinerary FINALIZED Nov 23, 2026 (Grant's direction): Gulangyu IN on Dec 29; Quanzhou Jan 3 afternoon = Mount Qingyuan + West Lake (Luoyang Bridge dropped); Hong Kong Jan 6–8 plan adopted (TST Promenade/Symphony of Lights, Peak Circle Walk day, shopping day); Xiamen University stays lottery-bonus only. Grant does not want granular detail (fares/hours) in the plan at this stage.
 - Flight details: both legs recorded (see anchors). Nothing outstanding; the CX777 document itself isn't on file, only its details.
 - Master logistics doc (tickets/confirmations as they land): lives in Drive, not here.
 
